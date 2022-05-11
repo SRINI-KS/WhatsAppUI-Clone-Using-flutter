@@ -15,7 +15,7 @@ class _StatusState extends State<Status> {
     return const Scaffold(
       body: Center(
           child: Text(
-        "Status",
+        "Status..",
         style: TextStyle(
             fontWeight: FontWeight.bold,
             fontSize: 15.0,
